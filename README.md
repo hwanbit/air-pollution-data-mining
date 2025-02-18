@@ -32,7 +32,6 @@ The script processes air pollution data from a CSV file, cleans and normalizes i
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/air-pollution-analysis.git
-   cd air-pollution-analysis
    ```
 2. Install dependencies.
 
